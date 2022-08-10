@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @louchix
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning Web FrontEnd
